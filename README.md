@@ -3,6 +3,13 @@
   <img src="./zira_banner.png" width="100%" alt="Arsalan Nasar — Founder & CEO, ZIRA Technologies" />
 </p>
 
+<!-- ===================== TAGLINE (animated, gold) ===================== -->
+<p align="center">
+  <a href="https://getzira.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&pause=1200&color=D4A23A&center=true&vCenter=true&width=760&lines=Where+Intelligence+Begins.;Building+AI+for+the+real+world.;Creator+of+Lexara+%26+BUITEMS+Copilot." alt="Where Intelligence Begins" />
+  </a>
+</p>
+
 <!-- ===================== SOCIAL LINKS ===================== -->
 <p align="center">
   <a href="https://getzira.tech"><img src="https://img.shields.io/badge/Website-getzira.tech-D4A23A?style=for-the-badge&logo=googlechrome&logoColor=1a0f08&labelColor=2a1810" /></a>
