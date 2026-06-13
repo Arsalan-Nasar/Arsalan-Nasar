@@ -1,13 +1,6 @@
-<!-- ===================== BANNER (ZIRA espresso + gold) ===================== -->
+<!-- ===================== BANNER (your own image — always loads) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f08,50:2a1810,100:3d2615&height=210&section=header&text=Arsalan%20Nasar&fontColor=f5ede1&fontSize=54&fontAlignY=38&desc=Founder%20%26%20CEO%20%C2%B7%20ZIRA%20Technologies&descSize=20&descAlignY=60" width="100%" />
-</p>
-
-<!-- ===================== TAGLINE (animated, gold) ===================== -->
-<p align="center">
-  <a href="https://getzira.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&pause=1200&color=D4A23A&center=true&vCenter=true&width=760&lines=Where+Intelligence+Begins.;Building+AI+for+the+real+world.;Creator+of+Lexara+%26+BUITEMS+Copilot." alt="tagline" />
-  </a>
+  <img src="./zira_banner.png" width="100%" alt="Arsalan Nasar — Founder & CEO, ZIRA Technologies" />
 </p>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
@@ -92,7 +85,4 @@ industries. If you're working on something meaningful — or want to — let's t
   ✉️ <a href="mailto:arsalan@getzira.tech"><b>arsalan@getzira.tech</b></a>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2615,50:2a1810,100:1a0f08&height=120&section=footer&text=Where%20Intelligence%20Begins&fontColor=D4A23A&fontSize=20&fontAlignY=70" width="100%" />
-</p>
+<p align="center"><i>Where Intelligence Begins.</i></p>
