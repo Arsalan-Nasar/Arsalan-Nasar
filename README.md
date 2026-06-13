@@ -1,95 +1,61 @@
-<div align="center">
+<h1 align="center">Hi, I'm Arsalan Nasar 👋</h1>
 
-# Arsalan Nasar
-### Founder & CEO at ZIRA Technologies
-
-*Building AI tools for professional industries — from Quetta, Pakistan, for the world.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsalan--nasar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/arsalan-nasar)
-[![Website](https://img.shields.io/badge/Website-getzira.tech-C8943A?style=flat&logo=google-chrome)](https://getzira.tech)
-[![Email](https://img.shields.io/badge/Email-arsalan@getzira.tech-D14836?style=flat&logo=gmail)](mailto:arsalan@getzira.tech)
-
-</div>
+<p align="center">
+  <b>Founder of ZIRA Technologies</b> — <i>"Where Intelligence Begins"</i><br>
+  Building AI products for <b>legal</b> and <b>education</b> · Student @ BUITEMS, Quetta 🇵🇰
+</p>
 
 ---
 
-## About Me
+### 🚀 About Me
 
-I am an IT student at **BUITEMS, Quetta** and the founder of **ZIRA Technologies** — an AI solutions company building intelligent tools for professional industries in Pakistan and beyond.
+I'm a software developer and founder focused on building **real, useful AI products** for the
+Pakistani market. I started with Python and a problem worth solving, and I build end-to-end —
+from the idea and architecture to a working, shipped product.
 
-My work sits at the intersection of artificial intelligence, product development, and real-world impact. I build things that solve genuine problems for Pakistani professionals.
-
----
-
-## 🚀 ZIRA Technologies
-
-**Where Intelligence Begins.**
-
-ZIRA Technologies builds AI products for professional industries. Our approach is consistent across every market we enter: identify the real problem, build the most precise AI solution, and integrate it so naturally it feels inevitable.
-
-🌐 [getzira.tech](https://getzira.tech)
+- 🏢 Founder of **ZIRA Technologies**
+- ⚖️ Building **Lexara** — an AI-powered legal research tool
+- 🎓 Building **BUITEMS Copilot** — an AI academic assistant for students
+- 🌱 Always learning: LangChain, RAG, AI agents, and product design
+- 📍 BUITEMS (Balochistan University of Information Technology, Engineering & Management Sciences)
 
 ---
 
-## 🏛 Lexara — Flagship Product
+### 🛠️ Tech I Work With
 
-> *Pakistan's first AI-powered semantic legal research assistant.*
-
-**The Problem:** Pakistan Law Site's keyword search returns thousands of irrelevant results. Lawyers waste hours filtering — and miss critical precedents.
-
-**The Solution:** Lexara understands the *meaning* of a legal query — not just the keywords — and returns ranked, relevant court precedents alongside the specific laws and argument strategies that apply to each case.
-
-**What it does:**
-- Semantic search using TF-IDF + cosine similarity
-- Relevance ranking with percentage confidence score
-- Primary law paired with each court judgment
-- Argument guidance — how to use each law in court
-- Validated by practicing advocates, Balochistan High Court
-
-📁 [View Repository](https://github.com/Arsalan-Nasar/Lexara)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented-success" />
+  <img src="https://img.shields.io/badge/Groq-LLM-orange" />
+  <img src="https://img.shields.io/badge/Gradio-UI-ff7c00" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 🌟 What I'm Building
 
-```python
-Languages   → Python
-Backend     → Flask
-AI/Search   → TF-IDF, Cosine Similarity, NLP
-Scraping    → Selenium, BeautifulSoup
-Frontend    → HTML, CSS, JavaScript
-Version     → Git, GitHub
-```
+| Project | What it is |
+|---------|-----------|
+| **ZIRA Technologies** | My technology company, building AI products for real-world problems. |
+| **Lexara** | AI-powered legal research tool for the Pakistani legal market. |
+| **BUITEMS Copilot** | A multi-tool AI agent that helps students with results, GPA, scholarships, and academic Q&A. |
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Connect With Me
 
-<div align="center">
-
-![Arsalan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsalan-Nasar&show_icons=true&theme=dark&title_color=C8943A&icon_color=C8943A&text_color=ffffff&bg_color=0d1829&border_color=1e3a5f)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-Nasar&layout=compact&theme=dark&title_color=C8943A&text_color=ffffff&bg_color=0d1829&border_color=1e3a5f)
-
-</div>
-
----
-
-## 📫 Contact
-
-| | |
-|---|---|
-| **Email** | arsalan@getzira.tech |
-| **Website** | getzira.tech |
-| **LinkedIn** | linkedin.com/in/arsalan-nasar |
-| **Location** | Quetta, Balochistan, Pakistan |
+<p>
+  <a href="https://github.com/Arsalan-Nasar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+  <!-- Add these once they are ready: -->
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a> -->
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> -->
+</p>
 
 ---
 
-<div align="center">
-
-*"Perfect is the enemy of good."*
-
-**Building from Quetta. Scaling to the world.** 🇵🇰
-
-</div>
+<p align="center">
+  <i>"Where Intelligence Begins."</i> — ZIRA Technologies
+</p>
