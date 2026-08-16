@@ -20,7 +20,7 @@
 
 ---
 
-### 🧭 Who I Am
+###  Who I Am
 
 I'm **Arsalan Nasar**, founder and CEO of **ZIRA Technologies** — an AI company built for the
 real world. I design and build **AI products that solve real problems**, starting with the
@@ -32,7 +32,7 @@ shipped product — architecture, engineering, design, and strategy.
 
 ---
 
-### 🏢 ZIRA Technologies — *Where Intelligence Begins*
+###  ZIRA Technologies — *Where Intelligence Begins*
 
 We build AI tools for professional industries — **intelligent, verifiable, and built for the
 people who depend on them most.** We start where the need is most acute and the tools least
@@ -43,19 +43,19 @@ designed to scale globally.
 
 ---
 
-### 🚀 Flagship Work
+###  Flagship Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚖️ Lexara</h4>
+      <h4> Lexara</h4>
       AI-powered legal research for the Pakistani legal market — making case law and statutes
       searchable in plain language.
       <br/><br/>
       <img src="https://img.shields.io/badge/status-in%20development-C8922F?labelColor=2a1810" />
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 BUITEMS Copilot</h4>
+      <h4> BUITEMS Copilot</h4>
       A multi-tool AI agent for university students — results, GPA, scholarships, and academic
       Q&A in one conversation.
       <br/><br/>
@@ -81,7 +81,7 @@ designed to scale globally.
 
 ---
 
-### 🤝 Let's Build Something
+###  Let's Build Something
 
 I'm open to **partnerships, collaborations, and conversations** about building AI for real
 industries. If you're working on something meaningful — or want to — let's talk.
@@ -89,7 +89,7 @@ industries. If you're working on something meaningful — or want to — let's t
 <p>
   🌐 <a href="https://getzira.tech"><b>getzira.tech</b></a> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/arsalan-nasar/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  ✉️ <a href="mailto:arsalan@getzira.tech"><b>arsalan@getzira.tech</b></a>
+  ✉️ <a href="mailto:arsalannasar958@gmail.com"><b>arsalannasar958@gmail.com</b></a>
 </p>
 
 <p align="center"><i>Where Intelligence Begins.</i></p>
