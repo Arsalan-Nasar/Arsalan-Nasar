@@ -1,6 +1,6 @@
 <!-- ===================== BANNER (own image — always loads) ===================== -->
 <p align="center">
-  <img src="./zira_banner.png" width="100%" alt="Arsalan Nasar — Founder & CEO, ZIRA Technologies" />
+  <img src="https://raw.githubusercontent.com/Arsalan-Nasar/Arsalan-Nasar/main/zira_banner.png" width="100%" alt="Arsalan Nasar — Founder & CEO, ZIRA Technologies" />
 </p>
 
 <!-- ===================== TAGLINE (animated, gold) ===================== -->
